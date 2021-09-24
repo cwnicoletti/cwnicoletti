@@ -1,4 +1,4 @@
-<h2 align="center">Software Engineer/App Developer | Algorithmic Stock Trader</h2>
+<h2 align="center">Software Engineer/App Developer</h2>
 
 <p align="center"><a href="https://my.indeed.com/p/christiann-icpn7p7"><img src="https://img.shields.io/badge/-Christian%20Nicoletti-%238a3ab9?style=social&logo=indeed"></a></p>
 <p align="center"><a href="https://stackoverflow.com/users/11938071"><img src="https://img.shields.io/badge/-user:11938071-%238a3ab9?style=social&logo=stackoverflow"></a></p>
