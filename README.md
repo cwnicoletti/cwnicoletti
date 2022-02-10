@@ -7,9 +7,9 @@
 </p>
 <p align="center">
     <a href="https://github.com/cwnicoletti">
-        <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwnicoletti&hide=python,processing,objective-c&theme=github_dark&hide_border=true" />
+        <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwnicoletti&hide=python,processing,objective-c&theme=github_dark&border_color=30363d" />
     </a>
     <a href="https://github.com/cwnicoletti">
-        <img align="top" src="https://github-readme-stats.vercel.app/api?username=cwnicoletti&show_icons=true&theme=github_dark&hide_border=true&count_private=true&custom_title=GitHub%20Stats&hide_rank=true" />
+        <img align="top" src="https://github-readme-stats.vercel.app/api?username=cwnicoletti&show_icons=true&theme=github_dark&border_color=30363d&count_private=true&custom_title=GitHub%20Stats&hide_rank=true" />
     </a>
 </p>
