@@ -9,7 +9,7 @@
     <a href="https://github.com/cwnicoletti">
         <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwnicoletti&hide=python,processing,objective-c&theme=github_dark&border_color=30363d" />
     </a>
-    <a href="https://github.com/pulls?q=is:pr+author:cwnicoletti">
+    <a href="https://github.com/pulls?q=is:pr+author:cwnicoletti" target="_blank">
         <img align="top" src="https://github-readme-stats.vercel.app/api?username=cwnicoletti&show_icons=true&theme=github_dark&border_color=30363d&count_private=true&custom_title=GitHub%20Stats%20(Click%20me!)&hide_rank=true" />
     </a>
 </p>
