@@ -1,4 +1,4 @@
-<h2 align="center">Frontend Developer (React Native and React)</h2>
+<h2 align="center">Mobile Developer (React Native)</h2>
 
 <p align="center">
     <a href="https://stackoverflow.com/users/11938071">
